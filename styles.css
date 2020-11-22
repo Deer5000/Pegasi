@@ -1,0 +1,48 @@
+
+.navbar{
+    margin-bottom: 50px;
+ }
+
+ .navbar img{
+   margin-right: 100px;
+ }
+
+.jumbotron {
+    background-image: url("https://www.caffesociety.co.uk/blog/wp-content/upLoads/2019/02/Coffee-Beans-Outer-Space.jpg");
+    background-size: cover;
+    height: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+  
+
+.card {
+
+  margin-top: 5%;
+  margin-bottom: 10%;
+  margin-right: 10%;
+  margin-left: 10%;
+  }
+
+  .card img{
+    height: 350px;
+  }
+
+  .navbar-inverse .navbar-brand {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+  }
+  .navbar-brand img {
+    height: 100%;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+  
+
+  .cards2 {
+    margin-top: 150px;
+
+  }
